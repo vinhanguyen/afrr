@@ -48,9 +48,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="229.08984"
-     inkscape:cy="765.6582"
+     inkscape:zoom="1.4328018"
+     inkscape:cx="389.80207"
+     inkscape:cy="810.4414"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -130,10 +130,10 @@
     <circle
        style="opacity:1;fill:#ff0000;fill-opacity:0;stroke:#000000;stroke-width:0.31091541;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path1454"
-       cx="-100.86218"
-       cy="-151.34091"
+       cx="-86.984306"
+       cy="-159.72157"
        r="24.841825"
-       transform="rotate(178.41873)" />
+       transform="rotate(173.30968)" />
     <circle
        r="29.814526"
        cy="170.95674"
@@ -153,7 +153,7 @@
          y="156.72964"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332">AF</tspan></text>
     <circle
-       style="opacity:0.5;fill:url(#linearGradient949);fill-opacity:1;stroke:none;stroke-width:1.72734988;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.75;fill:url(#linearGradient949);fill-opacity:1;stroke:none;stroke-width:1.72734988;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path915"
        cx="104.99998"
        cy="148.5"
@@ -171,6 +171,6 @@
        id="text1448"><textPath
          xlink:href="#path1454"
          id="textPath1461"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.26458332">ARLINGTON FOREST</textPath></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.26458332;letter-spacing:0.26458333px">ARLINGTON FOREST</textPath></text>
   </g>
 </svg>

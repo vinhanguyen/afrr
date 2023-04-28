@@ -18,29 +18,7 @@
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="afrr.svg">
   <defs
-     id="defs895">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient947">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop943" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop945" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient947"
-       id="linearGradient949"
-       x1="105"
-       y1="116.289"
-       x2="105"
-       y2="121.289"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs895" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -49,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4328018"
-     inkscape:cx="389.80207"
-     inkscape:cy="810.4414"
+     inkscape:cx="263.82512"
+     inkscape:cy="678.85943"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -152,12 +130,6 @@
          x="91.351906"
          y="156.72964"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332">AF</tspan></text>
-    <circle
-       style="opacity:0.75;fill:url(#linearGradient949);fill-opacity:1;stroke:none;stroke-width:1.72734988;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path915"
-       cx="104.99998"
-       cy="148.5"
-       r="32.210999" />
     <text
        id="text1452"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:serif;-inkscape-font-specification:'serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
